@@ -6,7 +6,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * 
  * @package PopupNotice
  * @author QingYun
- * @version 1.0.0
+ * @version 1.1.0
  * @link https://www.dogecloud.com/
  */
 class PopupNotice_Plugin implements Typecho_Plugin_Interface
