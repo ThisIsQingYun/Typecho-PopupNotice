@@ -2,7 +2,7 @@
 
 一个功能丰富的 Typecho 弹窗公告插件，支持多种显示方式和关闭选项。
 
-**本人博客：** [www.uomn.cn](https://www.uomn.cn) 
+**本人博客：** [氢云小屋](https://www.uomn.cn) 
 
 ## 功能特性
 
